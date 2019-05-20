@@ -3,12 +3,39 @@
     <title>Зайкова</title>
     <link href="https://zaikova.ru/feed.xml" rel="self" />
     <link href="https://zaikova.ru" />
-    <updated>2019-05-20T19:37:02+05:00</updated>
+    <updated>2019-05-20T19:50:50+05:00</updated>
     <author>
         <name>Денис</name>
     </author>
     <id>https://zaikova.ru</id>
 
+    <entry>
+        <title>Завершенные дела</title>
+        <author>
+            <name>Денис</name>
+        </author>
+        <link href="https://zaikova.ru/zavershennye-dela.html"/>
+        <id>https://zaikova.ru/zavershennye-dela.html</id>
+
+        <updated>2019-05-20T19:50:44+05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://zaikova.ru/media/posts/12/galka.png" alt="" />
+                    Благодаря неравнодушным действиям жителей удалось недавно решить следующие вопросы: Будем продолжать список наших побед!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://zaikova.ru/media/posts/12/galka.png" alt="" />
+                <p>Благодаря неравнодушным действиям жителей удалось недавно решить следующие вопросы:</p>
+<ul>
+<li>устранен периодический запах гари. Группа активистов несколько раз выезжала на поиски источника запаха. Был найден виновник - пункт приема металлолома на ул. 50 лет Октября. Вызвана полиция, написаны заявления. Запах гари прекратился.</li>
+<li>зимой 2018-2019 переставил заваливать выезди из дома при уборке снега с улицы и троуаров. Было написано обращение от жителей.</li>
+</ul>
+<p>Будем продолжать список наших побед!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Недостроенные дома</title>
         <author>
@@ -199,27 +226,5 @@
         <updated>2019-05-20T18:58:04+05:00</updated>
             <summary></summary>
         <content></content>
-    </entry>
-    <entry>
-        <title>О сайте</title>
-        <author>
-            <name>Денис</name>
-        </author>
-        <link href="https://zaikova.ru/dlya-chego-etot-sayt.html"/>
-        <id>https://zaikova.ru/dlya-chego-etot-sayt.html</id>
-
-        <updated>2019-05-20T19:26:46+05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://zaikova.ru/media/posts/1/thumb.dom.jpg" alt="" />
-                    Тут будет описание первого поста.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://zaikova.ru/media/posts/1/thumb.dom.jpg" alt="" />
-                Тут будет описание первого поста.
-            ]]>
-        </content>
     </entry>
 </feed>
