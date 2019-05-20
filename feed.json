@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Зайкова",
     "description": "",
-    "home_page_url": "https://zaikova.github.io",
-    "feed_url": "https://zaikova.github.io/feed.json",
+    "home_page_url": "https://zaikova.ru",
+    "feed_url": "https://zaikova.ru/feed.json",
     "user_comment": "",
     "author": {
         "name": "Денис"
     },
     "items": [
         {
-            "id": "https://zaikova.github.io/obshchaya-informaciya-o-zakova.html",
-            "url": "https://zaikova.github.io/obshchaya-informaciya-o-zakova.html",
+            "id": "https://zaikova.ru/obshchaya-informaciya-o-zakova.html",
+            "url": "https://zaikova.ru/obshchaya-informaciya-o-zakova.html",
             "title": "Общая информация о Зайкова",
             "author": {
                 "name": "Денис"
@@ -22,22 +22,23 @@
             "date_modified": "2019-05-19T18:55:53+05:00"
         },
         {
-            "id": "https://zaikova.github.io/oo-soderzhaniya-i-obustroystva-zhilya-dzaykovo.html",
-            "url": "https://zaikova.github.io/oo-soderzhaniya-i-obustroystva-zhilya-dzaykovo.html",
+            "id": "https://zaikova.ru/oo-soderzhaniya-i-obustroystva-zhilya-dzaykovo.html",
+            "url": "https://zaikova.ru/oo-soderzhaniya-i-obustroystva-zhilya-dzaykovo.html",
             "title": "ОО &quot;Содержания и Обустройства Жилья д.Зайково&quot;",
+            "image": "https://zaikova.ru/media/posts/8/ustav.jpg",
             "author": {
                 "name": "Денис"
             },
             "tags": [
             ],
             "date_published": "2019-05-19T18:16:22+05:00",
-            "date_modified": "2019-05-19T18:16:22+05:00"
+            "date_modified": "2019-05-20T09:20:30+05:00"
         },
         {
-            "id": "https://zaikova.github.io/kontakty.html",
-            "url": "https://zaikova.github.io/kontakty.html",
+            "id": "https://zaikova.ru/kontakty.html",
+            "url": "https://zaikova.ru/kontakty.html",
             "title": "Коммуникация",
-            "image": "https://zaikova.github.io/media/posts/7/com905.jpg",
+            "image": "https://zaikova.ru/media/posts/7/com905.jpg",
             "author": {
                 "name": "Денис"
             },
@@ -47,12 +48,12 @@
             "date_modified": "2019-05-19T18:21:09+05:00"
         },
         {
-            "id": "https://zaikova.github.io/chem-vam-mogut-pomoch-sosedi.html",
-            "url": "https://zaikova.github.io/chem-vam-mogut-pomoch-sosedi.html",
+            "id": "https://zaikova.ru/chem-vam-mogut-pomoch-sosedi.html",
+            "url": "https://zaikova.ru/chem-vam-mogut-pomoch-sosedi.html",
             "title": "Чем вам могут помочь соседи",
             "summary": "Информацию можно посмотреть по ссылке https://clck.ru/FRhGy Если у вас есть что туда добавить - пишите Денису в Viber-чате Зайково.",
             "content_html": "<p>Информацию можно посмотреть по ссылке <a href=\"https://clck.ru/FRhGy\">https://clck.ru/FRhGy</a></p>\n<p>Если у вас есть что туда добавить - пишите Денису в Viber-чате Зайково.</p>",
-            "image": "https://zaikova.github.io/media/posts/6/drug_addiction_help.jpg",
+            "image": "https://zaikova.ru/media/posts/6/drug_addiction_help.jpg",
             "author": {
                 "name": "Денис"
             },
@@ -62,10 +63,10 @@
             "date_modified": "2019-05-19T18:44:56+05:00"
         },
         {
-            "id": "https://zaikova.github.io/chem-mozhno-pomoch.html",
-            "url": "https://zaikova.github.io/chem-mozhno-pomoch.html",
+            "id": "https://zaikova.ru/chem-mozhno-pomoch.html",
+            "url": "https://zaikova.ru/chem-mozhno-pomoch.html",
             "title": "Чем можно помочь",
-            "image": "https://zaikova.github.io/media/posts/5/l0pRqdzXB8-300xx192.jpg",
+            "image": "https://zaikova.ru/media/posts/5/l0pRqdzXB8-300xx192.jpg",
             "author": {
                 "name": "Денис"
             },
@@ -75,10 +76,10 @@
             "date_modified": "2019-05-19T18:40:04+05:00"
         },
         {
-            "id": "https://zaikova.github.io/podtoplenie-vesnoy.html",
-            "url": "https://zaikova.github.io/podtoplenie-vesnoy.html",
+            "id": "https://zaikova.ru/podtoplenie-vesnoy.html",
+            "url": "https://zaikova.ru/podtoplenie-vesnoy.html",
             "title": "Подтопление весной",
-            "image": "https://zaikova.github.io/media/posts/4/5cc5fd30adb9.jpg",
+            "image": "https://zaikova.ru/media/posts/4/5cc5fd30adb9.jpg",
             "author": {
                 "name": "Денис"
             },
@@ -88,10 +89,10 @@
             "date_modified": "2019-05-19T18:19:11+05:00"
         },
         {
-            "id": "https://zaikova.github.io/ozelenenie.html",
-            "url": "https://zaikova.github.io/ozelenenie.html",
+            "id": "https://zaikova.ru/ozelenenie.html",
+            "url": "https://zaikova.ru/ozelenenie.html",
             "title": "Озеленение",
-            "image": "https://zaikova.github.io/media/posts/3/green.jpg",
+            "image": "https://zaikova.ru/media/posts/3/green.jpg",
             "author": {
                 "name": "Денис"
             },
@@ -101,10 +102,10 @@
             "date_modified": "2019-05-18T23:06:11+05:00"
         },
         {
-            "id": "https://zaikova.github.io/problema-s-zapahom-ot-ochistnyh.html",
-            "url": "https://zaikova.github.io/problema-s-zapahom-ot-ochistnyh.html",
+            "id": "https://zaikova.ru/problema-s-zapahom-ot-ochistnyh.html",
+            "url": "https://zaikova.ru/problema-s-zapahom-ot-ochistnyh.html",
             "title": "Запах от очистных",
-            "image": "https://zaikova.github.io/media/posts/2/1458542578_7h.jpg",
+            "image": "https://zaikova.ru/media/posts/2/1458542578_7h.jpg",
             "author": {
                 "name": "Денис"
             },
@@ -114,12 +115,12 @@
             "date_modified": "2019-05-19T18:17:34+05:00"
         },
         {
-            "id": "https://zaikova.github.io/dlya-chego-etot-sayt.html",
-            "url": "https://zaikova.github.io/dlya-chego-etot-sayt.html",
+            "id": "https://zaikova.ru/dlya-chego-etot-sayt.html",
+            "url": "https://zaikova.ru/dlya-chego-etot-sayt.html",
             "title": "Что это за сайт и для чего он",
             "summary": "Тут будет описание первого поста.",
             "content_html": "Тут будет описание первого поста.",
-            "image": "https://zaikova.github.io/media/posts/1/images.png",
+            "image": "https://zaikova.ru/media/posts/1/images.png",
             "author": {
                 "name": "Денис"
             },

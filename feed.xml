@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Зайкова</title>
-    <link href="https://zaikova.github.io/feed.xml" rel="self" />
-    <link href="https://zaikova.github.io" />
-    <updated>2019-05-20T09:17:47+05:00</updated>
+    <link href="https://zaikova.ru/feed.xml" rel="self" />
+    <link href="https://zaikova.ru" />
+    <updated>2019-05-20T09:26:04+05:00</updated>
     <author>
         <name>Денис</name>
     </author>
-    <id>https://zaikova.github.io</id>
+    <id>https://zaikova.ru</id>
 
     <entry>
         <title>Общая информация о Зайкова</title>
         <author>
             <name>Денис</name>
         </author>
-        <link href="https://zaikova.github.io/obshchaya-informaciya-o-zakova.html"/>
-        <id>https://zaikova.github.io/obshchaya-informaciya-o-zakova.html</id>
+        <link href="https://zaikova.ru/obshchaya-informaciya-o-zakova.html"/>
+        <id>https://zaikova.ru/obshchaya-informaciya-o-zakova.html</id>
 
         <updated>2019-05-19T18:55:53+05:00</updated>
             <summary></summary>
@@ -26,10 +26,10 @@
         <author>
             <name>Денис</name>
         </author>
-        <link href="https://zaikova.github.io/oo-soderzhaniya-i-obustroystva-zhilya-dzaykovo.html"/>
-        <id>https://zaikova.github.io/oo-soderzhaniya-i-obustroystva-zhilya-dzaykovo.html</id>
+        <link href="https://zaikova.ru/oo-soderzhaniya-i-obustroystva-zhilya-dzaykovo.html"/>
+        <id>https://zaikova.ru/oo-soderzhaniya-i-obustroystva-zhilya-dzaykovo.html</id>
 
-        <updated>2019-05-19T18:16:22+05:00</updated>
+        <updated>2019-05-20T09:20:30+05:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -38,8 +38,8 @@
         <author>
             <name>Денис</name>
         </author>
-        <link href="https://zaikova.github.io/kontakty.html"/>
-        <id>https://zaikova.github.io/kontakty.html</id>
+        <link href="https://zaikova.ru/kontakty.html"/>
+        <id>https://zaikova.ru/kontakty.html</id>
 
         <updated>2019-05-19T18:21:09+05:00</updated>
             <summary></summary>
@@ -50,19 +50,19 @@
         <author>
             <name>Денис</name>
         </author>
-        <link href="https://zaikova.github.io/chem-vam-mogut-pomoch-sosedi.html"/>
-        <id>https://zaikova.github.io/chem-vam-mogut-pomoch-sosedi.html</id>
+        <link href="https://zaikova.ru/chem-vam-mogut-pomoch-sosedi.html"/>
+        <id>https://zaikova.ru/chem-vam-mogut-pomoch-sosedi.html</id>
 
         <updated>2019-05-19T18:44:56+05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://zaikova.github.io/media/posts/6/drug_addiction_help.jpg" alt="" />
+                        <img src="https://zaikova.ru/media/posts/6/drug_addiction_help.jpg" alt="" />
                     Информацию можно посмотреть по ссылке https://clck.ru/FRhGy Если у вас есть что туда добавить - пишите Денису в Viber-чате Зайково.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zaikova.github.io/media/posts/6/drug_addiction_help.jpg" alt="" />
+                    <img src="https://zaikova.ru/media/posts/6/drug_addiction_help.jpg" alt="" />
                 <p>Информацию можно посмотреть по ссылке <a href="https://clck.ru/FRhGy">https://clck.ru/FRhGy</a></p>
 <p>Если у вас есть что туда добавить - пишите Денису в Viber-чате Зайково.</p>
             ]]>
@@ -73,8 +73,8 @@
         <author>
             <name>Денис</name>
         </author>
-        <link href="https://zaikova.github.io/chem-mozhno-pomoch.html"/>
-        <id>https://zaikova.github.io/chem-mozhno-pomoch.html</id>
+        <link href="https://zaikova.ru/chem-mozhno-pomoch.html"/>
+        <id>https://zaikova.ru/chem-mozhno-pomoch.html</id>
 
         <updated>2019-05-19T18:40:04+05:00</updated>
             <summary></summary>
@@ -85,8 +85,8 @@
         <author>
             <name>Денис</name>
         </author>
-        <link href="https://zaikova.github.io/podtoplenie-vesnoy.html"/>
-        <id>https://zaikova.github.io/podtoplenie-vesnoy.html</id>
+        <link href="https://zaikova.ru/podtoplenie-vesnoy.html"/>
+        <id>https://zaikova.ru/podtoplenie-vesnoy.html</id>
 
         <updated>2019-05-19T18:19:11+05:00</updated>
             <summary></summary>
@@ -97,8 +97,8 @@
         <author>
             <name>Денис</name>
         </author>
-        <link href="https://zaikova.github.io/ozelenenie.html"/>
-        <id>https://zaikova.github.io/ozelenenie.html</id>
+        <link href="https://zaikova.ru/ozelenenie.html"/>
+        <id>https://zaikova.ru/ozelenenie.html</id>
 
         <updated>2019-05-18T23:06:11+05:00</updated>
             <summary></summary>
@@ -109,8 +109,8 @@
         <author>
             <name>Денис</name>
         </author>
-        <link href="https://zaikova.github.io/problema-s-zapahom-ot-ochistnyh.html"/>
-        <id>https://zaikova.github.io/problema-s-zapahom-ot-ochistnyh.html</id>
+        <link href="https://zaikova.ru/problema-s-zapahom-ot-ochistnyh.html"/>
+        <id>https://zaikova.ru/problema-s-zapahom-ot-ochistnyh.html</id>
 
         <updated>2019-05-19T18:17:34+05:00</updated>
             <summary></summary>
@@ -121,19 +121,19 @@
         <author>
             <name>Денис</name>
         </author>
-        <link href="https://zaikova.github.io/dlya-chego-etot-sayt.html"/>
-        <id>https://zaikova.github.io/dlya-chego-etot-sayt.html</id>
+        <link href="https://zaikova.ru/dlya-chego-etot-sayt.html"/>
+        <id>https://zaikova.ru/dlya-chego-etot-sayt.html</id>
 
         <updated>2019-05-19T18:21:46+05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://zaikova.github.io/media/posts/1/images.png" alt="" />
+                        <img src="https://zaikova.ru/media/posts/1/images.png" alt="" />
                     Тут будет описание первого поста.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zaikova.github.io/media/posts/1/images.png" alt="" />
+                    <img src="https://zaikova.ru/media/posts/1/images.png" alt="" />
                 Тут будет описание первого поста.
             ]]>
         </content>
