@@ -3,21 +3,21 @@
     <title>Зайкова</title>
     <link href="https://zaikova.ru/feed.xml" rel="self" />
     <link href="https://zaikova.ru" />
-    <updated>2019-05-20T09:26:04+05:00</updated>
+    <updated>2019-05-20T13:26:34+05:00</updated>
     <author>
         <name>Денис</name>
     </author>
     <id>https://zaikova.ru</id>
 
     <entry>
-        <title>Общая информация о Зайкова</title>
+        <title>О районе Зайкова</title>
         <author>
             <name>Денис</name>
         </author>
         <link href="https://zaikova.ru/obshchaya-informaciya-o-zakova.html"/>
         <id>https://zaikova.ru/obshchaya-informaciya-o-zakova.html</id>
 
-        <updated>2019-05-19T18:55:53+05:00</updated>
+        <updated>2019-05-20T13:26:25+05:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -34,16 +34,26 @@
         <content></content>
     </entry>
     <entry>
-        <title>Коммуникация</title>
+        <title>Контакты</title>
         <author>
             <name>Денис</name>
         </author>
         <link href="https://zaikova.ru/kontakty.html"/>
         <id>https://zaikova.ru/kontakty.html</id>
 
-        <updated>2019-05-19T18:21:09+05:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2019-05-20T13:21:16+05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://zaikova.ru/media/posts/7/com905.jpg" alt="" />
+                    Основное общение жителей идет посредством Viber-чата. Для добавления вас в него обратитесь к кому-нибудь кто там уже есть или напишите о вашем желании на denis@zaikova.ru
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://zaikova.ru/media/posts/7/com905.jpg" alt="" />
+                Основное общение жителей идет посредством Viber-чата. Для добавления вас в него обратитесь к кому-нибудь кто там уже есть или напишите о вашем желании на denis@zaikova.ru
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Чем вам могут помочь соседи</title>
@@ -53,18 +63,18 @@
         <link href="https://zaikova.ru/chem-vam-mogut-pomoch-sosedi.html"/>
         <id>https://zaikova.ru/chem-vam-mogut-pomoch-sosedi.html</id>
 
-        <updated>2019-05-19T18:44:56+05:00</updated>
+        <updated>2019-05-20T13:22:26+05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://zaikova.ru/media/posts/6/drug_addiction_help.jpg" alt="" />
-                    Информацию можно посмотреть по ссылке https://clck.ru/FRhGy Если у вас есть что туда добавить - пишите Денису в Viber-чате Зайково.
+                    Информацию можно посмотреть по ссылке https://clck.ru/FRhGy Если у вас есть что туда добавить - пишите Денису в Viber-чате Зайково или на почту denis@zaikova.ru
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://zaikova.ru/media/posts/6/drug_addiction_help.jpg" alt="" />
                 <p>Информацию можно посмотреть по ссылке <a href="https://clck.ru/FRhGy">https://clck.ru/FRhGy</a></p>
-<p>Если у вас есть что туда добавить - пишите Денису в Viber-чате Зайково.</p>
+<p>Если у вас есть что туда добавить - пишите Денису в Viber-чате Зайково или на почту denis@zaikova.ru</p>
             ]]>
         </content>
     </entry>
@@ -76,9 +86,23 @@
         <link href="https://zaikova.ru/chem-mozhno-pomoch.html"/>
         <id>https://zaikova.ru/chem-mozhno-pomoch.html</id>
 
-        <updated>2019-05-19T18:40:04+05:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2019-05-20T13:19:34+05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://zaikova.ru/media/posts/5/l0pRqdzXB8-300xx192.jpg" alt="" />
+                    Написать статью по тематике сайта и отправить на denis@zaikova.ru для размещенияПоучаствовать в сборе подписей по поводу избавления от запаха очистныхЗаняться озеленением и благоустройством своей придомовой территории
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://zaikova.ru/media/posts/5/l0pRqdzXB8-300xx192.jpg" alt="" />
+                <ul style="list-style-type: circle;">
+<li>Написать статью по тематике сайта и отправить на <a href="mailto:denis@zaikova.ru">denis@zaikova.ru</a> для размещения</li>
+<li>Поучаствовать в сборе подписей по поводу избавления от запаха очистных</li>
+<li>Заняться озеленением и благоустройством своей придомовой территории</li>
+</ul>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Подтопление весной</title>
@@ -117,23 +141,23 @@
         <content></content>
     </entry>
     <entry>
-        <title>Что это за сайт и для чего он</title>
+        <title>О сайте</title>
         <author>
             <name>Денис</name>
         </author>
         <link href="https://zaikova.ru/dlya-chego-etot-sayt.html"/>
         <id>https://zaikova.ru/dlya-chego-etot-sayt.html</id>
 
-        <updated>2019-05-19T18:21:46+05:00</updated>
+        <updated>2019-05-20T13:16:26+05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://zaikova.ru/media/posts/1/images.png" alt="" />
+                        <img src="https://zaikova.ru/media/posts/1/dom.jpg" alt="" />
                     Тут будет описание первого поста.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zaikova.ru/media/posts/1/images.png" alt="" />
+                    <img src="https://zaikova.ru/media/posts/1/dom.jpg" alt="" />
                 Тут будет описание первого поста.
             ]]>
         </content>
