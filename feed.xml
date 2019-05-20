@@ -3,7 +3,7 @@
     <title>Зайкова</title>
     <link href="https://zaikova.ru/feed.xml" rel="self" />
     <link href="https://zaikova.ru" />
-    <updated>2019-05-20T20:02:31+05:00</updated>
+    <updated>2019-05-20T20:09:32+05:00</updated>
     <author>
         <name>Денис</name>
     </author>
@@ -161,7 +161,7 @@
         <link href="https://zaikova.ru/chem-mozhno-pomoch.html"/>
         <id>https://zaikova.ru/chem-mozhno-pomoch.html</id>
 
-        <updated>2019-05-20T20:00:01+05:00</updated>
+        <updated>2019-05-20T20:05:10+05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://zaikova.ru/media/posts/5/l0pRqdzXB8-300xx192.jpg" alt="" />
@@ -223,8 +223,20 @@
         <link href="https://zaikova.ru/problema-s-zapahom-ot-ochistnyh.html"/>
         <id>https://zaikova.ru/problema-s-zapahom-ot-ochistnyh.html</id>
 
-        <updated>2019-05-20T18:58:04+05:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2019-05-20T20:09:11+05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://zaikova.ru/media/posts/2/1458542578_7h.jpg" alt="" />
+                    Многих жителей районов, расплохоженных недалеко от очистных сооружений беспокоит периодический не приятный запах. Усиливается он особенно весной. Наблюдается чаще когда есть легкий ветер со стороны очистных или штиль. Не должно быть такого в "лучшем городе земли". Готовится обращение в администрацию и к руководству очистных сооружений.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://zaikova.ru/media/posts/2/1458542578_7h.jpg" alt="" />
+                <p>Многих жителей районов, расплохоженных недалеко от очистных сооружений беспокоит периодический не приятный запах. Усиливается он особенно весной. Наблюдается чаще когда есть легкий ветер со стороны очистных или штиль.</p>
+<p>Не должно быть такого в "лучшем городе земли".</p>
+<p>Готовится обращение в администрацию и к руководству очистных сооружений. Скоро будет сбор подписей. </p>
+            ]]>
+        </content>
     </entry>
 </feed>
